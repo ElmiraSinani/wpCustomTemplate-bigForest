@@ -1,0 +1,41 @@
+.widget-icon-box{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 12px;
+}
+.icon-box__text{
+    display: inline-block;
+}
+.social_top{
+    font-size: 25px;
+    padding: 0 8px;
+    color: #019243;
+    transition: all 200ms ease-out;
+}
+.icon-box {
+    text-align: left;
+    color: #999999;
+}
+.icon-box__title {
+    margin: 4px 0 0 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: #dddddd;
+}
+.social_top a{
+    color: #019243;
+}
+.text-more-right{
+    text-align: right!important;
+    
+}
+.text-more-right a{
+    color: #019243;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 16px;
+    margin-right: 100px;
+}
+.text-more-right a:hover{
+    color: #23FF87;
+}
